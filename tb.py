@@ -290,5 +290,5 @@ def rcrack(uid,pwx,tl):
         sys.stdout.flush()
     except:
         pass
-MASUD_programmer()
+MH_programmer()
 
